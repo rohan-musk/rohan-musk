@@ -16,5 +16,6 @@ Skills I am planning to improve upon this year-
 * UI/UX
 
 Feel free to contact me to discuss about favourite anime :stuck_out_tongue: on-
-[mail](rohanmuskawad1201@gmail.com)
-[instagram](https://www.instagram.com/rohanmusk/)
+[Mail](rohanmuskawad1201@gmail.com)
+or
+[Instagram](https://www.instagram.com/rohanmusk/)
