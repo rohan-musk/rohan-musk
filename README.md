@@ -3,7 +3,10 @@
 ##### Student from BITS Pilani, pursuing Electronics and Instrumentation Engineering
 
 I am a self taught developer. I try to explore new technologies with my projects. Technologies I have worked with-
-* React * Firebase
-* React Native * Node JS
-* Express * Solidity
-
+* React 
+* React Native
+* Next JS
+* Firebase
+* Node JS
+* Express 
+* Solidity
